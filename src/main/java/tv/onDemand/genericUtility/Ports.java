@@ -1,4 +1,4 @@
-package tv.ondemand.genericUtility;
+package tv.onDemand.genericUtility;
 
 public interface Ports {
 	int userManagement = 31100;

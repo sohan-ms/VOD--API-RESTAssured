@@ -1,4 +1,4 @@
-package tv.ondemand.genericUtility;
+package tv.onDemand.genericUtility;
 
 import java.util.Date;
 

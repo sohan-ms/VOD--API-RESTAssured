@@ -7,11 +7,11 @@ import org.testng.annotations.Test;
 import io.restassured.http.ContentType;
 import io.restassured.parsing.Parser;
 import io.restassured.response.Response;
-import tv.ondemand.endPointURI.Configuration;
-import tv.ondemand.genericUtility.API_BaseClass;
-import tv.ondemand.genericUtility.Ports;
-import tv.ondemand.pojoUtility.ContentPartner;
-import tv.ondemand.pojoUtility.CustomConfig;
+import tv.onDemand.endPointURI.Configuration;
+import tv.onDemand.genericUtility.API_BaseClass;
+import tv.onDemand.genericUtility.Ports;
+import tv.onDemand.pojoUtility.ContentPartner;
+import tv.onDemand.pojoUtility.CustomConfig;
 
 public class Customer extends API_BaseClass{
 	String customerName = "TestCust3";

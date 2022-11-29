@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 import org.testng.annotations.Test;
 
-import tv.ondemand.genericUtility.API_BaseClass;
+import tv.onDemand.genericUtility.API_BaseClass;
 
 public class delete extends API_BaseClass{
 	@Test

@@ -1,4 +1,4 @@
-package tv.ondemand.pojoUtility;
+package tv.onDemand.pojoUtility;
 
 public class ContentPartner {
 	private String customer;

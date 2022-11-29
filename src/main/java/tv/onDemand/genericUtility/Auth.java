@@ -1,4 +1,4 @@
-package tv.ondemand.genericUtility;
+package tv.onDemand.genericUtility;
 
 import static io.restassured.RestAssured.given;
 

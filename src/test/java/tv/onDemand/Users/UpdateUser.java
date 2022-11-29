@@ -1,14 +1,14 @@
-package tv.ondemand.Users;
+package tv.onDemand.Users;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import tv.ondemand.genericUtility.Auth;
-import tv.ondemand.genericUtility.IConstants;
-import tv.ondemand.genericUtility.IEndPoints;
-import tv.ondemand.pojoUtility.UserDetails;
+import tv.onDemand.genericUtility.Auth;
+import tv.onDemand.genericUtility.IConstants;
+import tv.onDemand.genericUtility.IEndPoints;
+import tv.onDemand.pojoUtility.UserDetails;
 
 import static org.hamcrest.Matchers.*;
 

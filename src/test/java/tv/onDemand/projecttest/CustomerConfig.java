@@ -1,11 +1,11 @@
-package tv.ondemand.projecttest;
+package tv.onDemand.projecttest;
 
 import org.testng.annotations.Test;
 
 import io.restassured.http.ContentType;
-import tv.ondemand.genericUtility.Auth;
-import tv.ondemand.genericUtility.IConstants;
-import tv.ondemand.genericUtility.IEndPoints;
+import tv.onDemand.genericUtility.Auth;
+import tv.onDemand.genericUtility.IConstants;
+import tv.onDemand.genericUtility.IEndPoints;
 
 import static io.restassured.RestAssured.*;
 

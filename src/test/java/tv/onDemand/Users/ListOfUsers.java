@@ -1,11 +1,11 @@
-package tv.ondemand.Users;
+package tv.onDemand.Users;
 
 import org.testng.annotations.Test;
 
 import io.restassured.response.Response;
-import tv.ondemand.genericUtility.API_BaseClass;
-import tv.ondemand.genericUtility.Auth;
-import tv.ondemand.genericUtility.IEndPoints;
+import tv.onDemand.genericUtility.API_BaseClass;
+import tv.onDemand.genericUtility.Auth;
+import tv.onDemand.genericUtility.IEndPoints;
 
 import static io.restassured.RestAssured.*;
 

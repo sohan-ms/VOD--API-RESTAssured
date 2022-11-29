@@ -1,4 +1,4 @@
-package tv.ondemand.Users;
+package tv.onDemand.Users;
 
 import org.testng.annotations.Test;
 import org.testng.Assert;
@@ -6,10 +6,9 @@ import static io.restassured.RestAssured.*;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import tv.ondemand.genericUtility.API_BaseClass;
-import tv.ondemand.genericUtility.Auth;
-import tv.ondemand.pojoUtility.UserDetails;
-
+import tv.onDemand.genericUtility.API_BaseClass;
+import tv.onDemand.genericUtility.Auth;
+import tv.onDemand.pojoUtility.UserDetails;
 
 import java.util.Random;
 

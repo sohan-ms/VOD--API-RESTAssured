@@ -1,4 +1,4 @@
-package tv.ondemand.genericUtility;
+package tv.onDemand.genericUtility;
 
 public class PayLoad {
 	public static String contentPartner(String contentPartner) {

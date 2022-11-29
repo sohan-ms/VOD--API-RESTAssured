@@ -1,11 +1,11 @@
-package tv.ondemand.projecttest;
+package tv.onDemand.projecttest;
 
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
 
 
 import io.restassured.response.Response;
-import tv.ondemand.genericUtility.Auth;
+import tv.onDemand.genericUtility.Auth;
 
 public class GetMetastoreTitles {
 	@Test

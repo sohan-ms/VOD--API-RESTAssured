@@ -1,4 +1,4 @@
-package tv.ondemand.genericUtility;
+package tv.onDemand.genericUtility;
 
 public interface IConstants {
 	String configURL = "http://3.82.204.32:31300/config";

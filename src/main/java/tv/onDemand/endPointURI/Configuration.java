@@ -1,4 +1,4 @@
-package tv.ondemand.endPointURI;
+package tv.onDemand.endPointURI;
 
 public interface Configuration {
 	String customer ="/config/customer";

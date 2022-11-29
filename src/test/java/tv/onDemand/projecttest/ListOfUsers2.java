@@ -1,4 +1,4 @@
-package tv.ondemand.projecttest;
+package tv.onDemand.projecttest;
 
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
@@ -6,9 +6,9 @@ import static io.restassured.RestAssured.*;
 import java.util.List;
 
 import io.restassured.response.Response;
-import tv.ondemand.genericUtility.Auth;
-import tv.ondemand.genericUtility.IConstants;
-import tv.ondemand.genericUtility.IEndPoints;
+import tv.onDemand.genericUtility.Auth;
+import tv.onDemand.genericUtility.IConstants;
+import tv.onDemand.genericUtility.IEndPoints;
 
 /**
  * 

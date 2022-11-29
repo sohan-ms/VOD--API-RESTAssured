@@ -1,4 +1,4 @@
-package tv.ondemand.genericUtility;
+package tv.onDemand.genericUtility;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
